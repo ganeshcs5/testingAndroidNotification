@@ -1,0 +1,1 @@
+include ':app', ':aws-android-sdk-cognito-2.2.20', ':aws-android-sdk-core-2.2.20', ':aws-android-sdk-s3-2.2.20'
